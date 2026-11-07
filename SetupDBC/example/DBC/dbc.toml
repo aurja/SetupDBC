@@ -1,0 +1,3 @@
+project = "Electric kettle controller"
+evidence = "SCENARIOS.md"
+test_globs = ["tests/test_*.py"]
